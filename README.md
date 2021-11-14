@@ -1,2 +1,2 @@
 # Andreio-Card-Robots
-card having robohash Api with name + Username + Email
+card having robohash Api Request
